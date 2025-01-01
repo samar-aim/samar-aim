@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @samarjeet
-- 👀 I’m a ML engineer at AiMonk Labs
+- 👋 Hi, I’m Samarjeet
+- 👀 I’m a ML engineer at AIMonk Labs
 
 <!---
 samar-aim/samar-aim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
